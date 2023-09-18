@@ -1,14 +1,14 @@
 {
     "our_ads1_activation":"true",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/oujdidriss/testUnity/main/downloadImage.jpeg?token=GHSAT0AAAAAACHWNHJYIUQIUEFHCFCUQDDQZIIHJDQ",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/oujdidriss/testUnity/main/downloadImage.jpeg",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.elsaPrincess.frozenScary",
     
     "our_ads2_activation":"true",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/oujdidriss/testUnity/main/icon.png?token=GHSAT0AAAAAACHWNHJYGT4LBWLFJYKHRH5EZIIHIPQ",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/oujdidriss/testUnity/main/icon.png",
     "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.rainbowMonster.scaryBluefriends",
     
     "our_ads3_activation":"true",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/oujdidriss/testUnity/main/talkingJuan.png?token=GHSAT0AAAAAACHWNHJZZUB2V2GZE4SZR5L2ZIIHJJQ",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/oujdidriss/testUnity/main/talkingJuan.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
     
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
